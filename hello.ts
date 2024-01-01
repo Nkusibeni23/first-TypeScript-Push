@@ -1,1 +1,3 @@
-const userName = "Baidu";
+let userName = true;
+
+const newUser = userName;
